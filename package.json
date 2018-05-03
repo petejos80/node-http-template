@@ -1,0 +1,22 @@
+{
+  "name": "http-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mutiple-pages.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petejos80/node-http-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petejos80/node-http-template/issues"
+  },
+  "homepage": "https://github.com/petejos80/node-http-template#readme",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
